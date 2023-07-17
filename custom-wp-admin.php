@@ -4,7 +4,7 @@
  * Plugin URI: https://example.com/plugins/custom-wp-admin-logo
  * Description: A plugin that lets you customize the WordPress admin logo and link.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Brady Davis
  * Author URI: https://bradydavis.io
  */
 
